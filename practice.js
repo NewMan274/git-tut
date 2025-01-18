@@ -10,4 +10,4 @@ function practice(input) {
 
 practice([2,3,4,5,6,7,8,10]);
 
-console.log('version 13');
+console.log('version ssh');
